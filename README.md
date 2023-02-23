@@ -6,7 +6,7 @@
 
 <p>I'm always passionate about the work I do, I put my full focus to resolve any issues/tasks I face either in work or personal life. I would describe myself as punctual that helps me to plan ahead and meet expectations. Learning and growing is important for me, I'm always up for new challenges.</p>
 
-You can reach me on LinkedIn: www.linkedin.com/in/anna-ozolina
+You can reach me on here: [![Linkedin Badge](https://img.shields.io/badge/-OzoAnna-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anna-ozolina)](https://www.linkedin.com/in/anna-ozolina)
 
 <h3> TECHNICAL SKILLS </h3>
 
