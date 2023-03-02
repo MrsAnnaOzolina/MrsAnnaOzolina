@@ -18,4 +18,4 @@ src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-
 src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB Logo" width="50" height="50" /><img
 src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React Logo" width="50" height="50" />
 
-<h1> &#8595  Feel free to check my three latest projects below in React.js </h1>
+<h1> &#8595  Feel free to check my three latest projects below in React.js and Angular </h1>
