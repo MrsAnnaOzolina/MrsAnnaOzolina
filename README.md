@@ -1,4 +1,4 @@
-[![Header](https://github.com/MrsAnnaOzolina/photo.git/Lulu9.jpeg "Header")](www.linkedin.com/in/anna-ozolina)
+[![Header](https://github.com/MrsAnnaOzolina/photo/blob/be9375521168152ee8f98eaa28ef914e1e8740df/Lulu9.jpeg "Header")](www.linkedin.com/in/anna-ozolina)
 
 # Hi, my name is Anna.  Nice to meet you! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
