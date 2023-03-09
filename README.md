@@ -4,7 +4,7 @@
 <img src="https://github.com/MrsAnnaOzolina/photo/blob/75ebf4fbf296f67b8e3f5feaf69e4a6e626dd795/Lulu.jpeg" width="500"  >
   </p>
 
-<p> I am software developer with extensive knowledge in web technologies focused more on Front-End (HTML, CSS, Typescript, Javascripts, Reacts.js), but also have worked with MySql and MongoDB. </p>
+<p> I am software developer with extensive knowledge in web technologies focused more on Front-End (HTML, CSS, Typescript, Javascripts, Reacts.js, Angular, Vue), but also have worked with MySql and MongoDB. </p>
 
 <p>I'm always passionate about the work I do, I put my full focus to resolve any issues/tasks I face either in work or personal life. I would describe myself as punctual that helps me to plan ahead and meet expectations. Learning and growing is important for me, I'm always up for new challenges.</p>
 
