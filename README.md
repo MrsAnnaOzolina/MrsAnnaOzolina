@@ -1,7 +1,6 @@
 
 # Hi, my name is Anna.  Nice to meet you! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 <p align="center">
-<img src="https://github.com/MrsAnnaOzolina/photo/blob/75ebf4fbf296f67b8e3f5feaf69e4a6e626dd795/Lulu.jpeg" width="500"  >
   </p>
 
 <p> I am software developer with extensive knowledge in web technologies focused more on Front-End (HTML, CSS, Typescript, Javascripts, Reacts.js, Angular, Vue), but also have worked with MySql and MongoDB. </p>
